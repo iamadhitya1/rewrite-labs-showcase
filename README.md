@@ -88,7 +88,7 @@ Featured by **BeerBiceps SkillHouse** — one of India's largest creator-educati
 
 The source code for this project is kept **private** as it is part of an active commercial product. This repository serves as a public showcase of the project.
 
-If you are a recruiter, collaborator, or investor interested in reviewing the codebase, please reach out via [LinkedIn](https://www.linkedin.com/in/loveadhitya/).
+If you are a recruiter, collaborator, or investor interested in reviewing the codebase, please reach out via [LinkedIn](https://www.linkedin.com/in/iamadhitya/).
 
 ---
 
@@ -96,5 +96,5 @@ If you are a recruiter, collaborator, or investor interested in reviewing the co
 
 **M. Adhitya** — Founder, Rewrite Labs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamadhitya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamadhitya1)
